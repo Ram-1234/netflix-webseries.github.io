@@ -101,11 +101,11 @@ const Sdata=
     
         {
             id:12,
-        sname:"SHOOTER",
-        imgscr:"https://i.ytimg.com/vi/X2x6IR3FhbQ/maxresdefault.jpg",
+        sname:"OZARK",
+        imgscr:"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ozark-s3-vertical-character-jason-solo-rgb-pre-1585337732.jpg?crop=1.00xw:0.676xh;0,0.303xh&resize=640:*",
         title:"A Netflix Original Series",
         
-        links:"https://www.netflix.com/in/title/80109194"
+        links:"https://www.netflix.com/in/title/80117552"
         },
         {
             id:13,
