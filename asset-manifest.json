@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netflix-webseries.github.io/static/css/main.24811293.chunk.css",
+    "main.js": "/netflix-webseries.github.io/static/js/main.aae224f8.chunk.js",
+    "main.js.map": "/netflix-webseries.github.io/static/js/main.aae224f8.chunk.js.map",
+    "runtime-main.js": "/netflix-webseries.github.io/static/js/runtime-main.1811220e.js",
+    "runtime-main.js.map": "/netflix-webseries.github.io/static/js/runtime-main.1811220e.js.map",
+    "static/js/2.91b85acb.chunk.js": "/netflix-webseries.github.io/static/js/2.91b85acb.chunk.js",
+    "static/js/2.91b85acb.chunk.js.map": "/netflix-webseries.github.io/static/js/2.91b85acb.chunk.js.map",
+    "index.html": "/netflix-webseries.github.io/index.html",
+    "static/css/main.24811293.chunk.css.map": "/netflix-webseries.github.io/static/css/main.24811293.chunk.css.map",
+    "static/js/2.91b85acb.chunk.js.LICENSE.txt": "/netflix-webseries.github.io/static/js/2.91b85acb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1811220e.js",
+    "static/js/2.91b85acb.chunk.js",
+    "static/css/main.24811293.chunk.css",
+    "static/js/main.aae224f8.chunk.js"
+  ]
+}
