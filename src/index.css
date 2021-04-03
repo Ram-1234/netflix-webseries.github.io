@@ -1,5 +1,5 @@
 body{
-  background-color: grey;
+  background-color: tomato;
   display: inline-block;
   text-align: center;
   width: fit-content;
@@ -12,12 +12,11 @@ body{
   height: 340px;
   margin: 5px;
   border: 2px solid black;
-  
 }
 
 .cards{
-  background-color: honeydew;
-   display: inline-block;
+  background-color: white;
+  display: inline-block;
   text-align: center;
   padding: 10px;
   /* background-color: seagreen;  */
@@ -32,14 +31,13 @@ h1{
 
 
  .card_info{
-   padding: 15px;
+   padding: 20px;
    margin: -20px;
+
  }
 
  .card:hover{
-    background-color: springgreen;
-    
-  
+    background-color: grey;
  }
 
  button:hover{

@@ -5,7 +5,7 @@ import Sdata from './Sdata';
 const Apps=()=>(
     
         <>
-        <h1>List of top Netflix Series</h1>
+        <h1>Netflix WebSeries</h1>
         {Sdata.map((val)=>{
         return(
           <Card
